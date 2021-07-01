@@ -81,5 +81,5 @@ Colored out in terminals.
 **本项目用于技术学习和小型实验，禁止任何使用者用于盈利目的或违法用途。**  
 This project is created for educational purposes in technology and forbiddened in any profitable activities nor illigal usage.  
   
-**项目及其作者不对项目使用者的任何使用、传播及相应后果承担任何责任。**  
-This project and its owner are not responsible for any usage, dissemination, and corresponding results.
+**项目及其作者不对其他使用者的任何使用、传播及相应后果承担任何责任。**  
+This project and its owner are not responsible for any usage, dissemination, and corresponding results of other users.
