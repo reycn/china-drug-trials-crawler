@@ -14,7 +14,7 @@ def tbody_to_json(html_doc: str, vertical: bool = False) -> str:
     '''Extract a <tbody></tbody> within a table to json'''
     soup = BeautifulSoup(html_doc, 'html.parser')
     try:
-        if vertical == False:
+        if not vertical:
             trs = soup.find_all('tr')
             result = {}
             for tr in trs:

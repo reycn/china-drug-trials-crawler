@@ -3,7 +3,7 @@ content/detail.html
 data/test.csv
 driver/chromedriver
 screenshots/*
-
+.idea/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -145,3 +145,7 @@ cython_debug/
 .DS_Store
 .vscode/settings.json
 lib/data.ipynb
+.idea/chinese-drug.iml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.vscode/launch.json
