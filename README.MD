@@ -2,7 +2,8 @@
 
 A web crawler for Chinadrugtrials.org.cn, written in Python 3.
 
-![Website]("./assets/website.jpg")  
+
+![Website](assets/website.jpg)  
 
 ## 开始 START
 
@@ -26,12 +27,12 @@ A web crawler for Chinadrugtrials.org.cn, written in Python 3.
 
 ### 函数用途和类型注释 Type & function annotations
 
-![Code]("./assets/code.jpg")  
+![Code](assets/code.jpg)  
 
 ## 输出数据 OUTPUT DATA
 
 
-![Data]("./assets/data.jpg") 
+![Data](assets/data.jpg) 
 
 ### 表格列 Table columns
 `pd.DataFrame`:
