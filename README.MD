@@ -79,7 +79,7 @@ Colored out in terminals.
 ## 重要声明 MAJOR STATEMENT
 
 **本项目用于技术学习和小型实验，禁止任何使用者用于盈利目的或违法用途。**  
-This project is created for educational purposes in technology and forbiddened in any profitable activities nor illigal usage.  
+This project is for technical learning and small experiments, and any user is prohibited from using it for profit purposes or illegal use.
   
 **项目及其作者不对其他使用者的任何使用、传播及相应后果承担任何责任。**  
-This project and its owner are not responsible for any usage, dissemination, and corresponding results of other users.
+The project and its authors do not assume any responsibility for any use, dissemination and corresponding consequences by other users.
