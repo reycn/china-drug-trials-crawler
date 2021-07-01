@@ -1,0 +1,5 @@
+pandas==1.2.1
+termcolor==1.1.0
+lxml==4.6.2
+beautifulsoup4==4.9.3
+pyppeteer==0.2.5
