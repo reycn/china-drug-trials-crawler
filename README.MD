@@ -1,6 +1,6 @@
 # 中国药物临床试验登记与信息公示平台爬虫
 
-A web crawler for Chinadrugtrials.org.cn, written in Python 3.6+.
+A web crawler for [chinadrugtrials.org.cn](https://www.chinadrugtrials.org.cn/), written in Python 3.6+.
 
 
 ![Website](assets/website.jpg)  
