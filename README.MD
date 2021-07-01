@@ -1,4 +1,4 @@
-# 药物临床试验与信息公示平台爬虫
+# 中国药物临床试验登记与信息公示平台爬虫
 
 A web crawler for Chinadrugtrials.org.cn, written in Python 3.6+.
 
